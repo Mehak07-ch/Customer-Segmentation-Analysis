@@ -140,7 +140,7 @@ This project is licensed under the MIT License.
 BCA Student | Aspiring Data Analyst | Machine Learning Enthusiast 
 
 📧 Email: mehakchauhan140807@gmail.com
-🔗 GitHub: https://github.com/your-github-username
+🔗 GitHub: https://github.com/Mehak07-ch
 🔗 LinkedIn: https://www.linkedin.com/in/mehak-chauhan-588583367/
 
 I am passionate about data analytics, machine learning, business intelligence, and solving real-world problems through data-driven insights. This project is part of my learning journey in Python, Data Science, and Machine Learning.
